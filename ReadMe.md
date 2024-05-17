@@ -21,7 +21,7 @@ Student ID: 11037680
 - Set up a GitHub repository and committed each task separately.
 
 ## GitHub Repository
-1. Created a GitHub account with student email.
+1. Created a GitHub account with eacheampong088@st.ug.edu.gh.
 2. Created a repository named js-for-react-native-11037680.
 3. Cloned the repository to local machine.
 4. Committed each task separately.
